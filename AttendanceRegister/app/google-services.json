@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14702957814",
+    "project_id": "attendanceregister-a8dab",
+    "storage_bucket": "attendanceregister-a8dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14702957814:android:debeeb78896edff74fc8d7",
+        "android_client_info": {
+          "package_name": "com.ranbiraeir.attendanceregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14702957814-cd3c6e7ob7t0qrrin818oh09ilhbq49l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTz6fPTAv03HuO39PL2JMJO4s1bhcjr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14702957814-cd3c6e7ob7t0qrrin818oh09ilhbq49l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

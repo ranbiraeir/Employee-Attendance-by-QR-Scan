@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Daily Attendance</string>
+    <string name="string_login">USER LOGIN</string>
+    <string name="qr_code">qr_code</string>
+    <string name="string_hint_email">EMAIL</string>
+    <string name="string_hint_password">PASSWORD</string>
+    <string name="string_forgot_password">FORGOT PASSWORD</string>
+    <string name="string_reset_password">Reset Password</string>
+    <string name="string_send_reset_email">SEND RESET EMAIL</string>
+    <string name="string_reset_success_message">A Password Reset Link has been sent to your email. You may use the link to reset your password only once. Please do not share the link with anyone.</string>
+    <string name="string_hotels">HOTELS</string>
+    <string name="string_log_out">Log Out</string>
+    <string name="string_hint_room_name">Room No 1</string>
+    <string name="string_room_status_1">open now</string>
+    <string name="string_empty_rooms_list">No Rooms Added for this Hotel</string>
+    <string name="string_profile">Profile</string>
+    <string name="string_block">Block</string>
+    <string name="string_terminate">Terminate</string>
+    <string name="string_empty_field_error">This cannot be Empty</string>
+    <string name="string_terminate_manager_account">terminate account</string>
+    <string name="string_manager_reset_success_message">A Password Reset Link has been sent to the Manager\'s email. They may use the link to reset their password only once. Please ask them to not share the link with anyone.</string>
+    <string name="string_example_manager_phone">1234567890</string>
+    <string name="string_unavailable"><![CDATA[<unavailable>]]></string>
+    <string name="admin_profile_header">ADMIN PROFILE</string>
+    <string name="string_sample_password">12345qwert</string>
+    <string name="string_change_password">change password</string>
+    <string name="string_old_password">OLD PASSWORD</string>
+    <string name="string_new_password">NEW PASSWORD</string>
+    <string name="string_sample_employee_name">Pulkit Dhiman</string>
+</resources>

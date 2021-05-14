@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Attendance Register</string>
+    <string name="string_login">LOGIN</string>
+    <string name="string_hint_email">EMAIL</string>
+    <string name="string_hint_password">PASSWORD</string>
+    <string name="string_sample_employee_name">Pulkit Dhiman</string>
+</resources>
